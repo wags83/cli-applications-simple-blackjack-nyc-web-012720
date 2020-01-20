@@ -59,3 +59,4 @@ def runner
   elsif card_total > 21
   end_game
 end
+end
